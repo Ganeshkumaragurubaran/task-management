@@ -4,13 +4,13 @@ This Laravel application is a task management system allowing users to create, v
 
 ## Screenshots
 
-![screenshot 1](public/screenshots/screenshot-1.png)
-![screenshot 2](public/screenshots/screenshot-2.png)
-![screenshot 3](public/screenshots/screenshot-3.png)
-![screenshot 4](public/screenshots/screenshot-4.png)
-![screenshot 5](public/screenshots/screenshot-5.png)
-![screenshot 5](public/screenshots/screenshot-6.png)
-![screenshot 5](public/screenshots/screenshot-7.png)
+![screenshot 1](public/images/screenshot-1.png)
+![screenshot 2](public/images/screenshot-2.png)
+![screenshot 3](public/images/screenshot-3.png)
+![screenshot 4](public/images/screenshot-4.png)
+![screenshot 5](public/images/screenshot-5.png)
+![screenshot 5](public/images/screenshot-6.png)
+![screenshot 5](public/images/screenshot-7.png)
 
 ## Prerequisites
 
