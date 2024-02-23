@@ -1,6 +1,16 @@
-# Your Laravel Task Management App
+# Laravel Task Management App
 
 This Laravel application is a task management system allowing users to create, view, update, and delete tasks.
+
+## Screenshots
+
+![screenshot 1](public/screenshots/screenshot-1.png)
+![screenshot 2](public/screenshots/screenshot-2.png)
+![screenshot 3](public/screenshots/screenshot-3.png)
+![screenshot 4](public/screenshots/screenshot-4.png)
+![screenshot 5](public/screenshots/screenshot-5.png)
+![screenshot 5](public/screenshots/screenshot-6.png)
+![screenshot 5](public/screenshots/screenshot-7.png)
 
 ## Prerequisites
 
@@ -23,7 +33,7 @@ Before you begin, ensure you have the following installed on your machine:
 2. Navigate to the project directory:
 
     ```bash
-    cd your-laravel-task-app
+    cd task-management
     ```
 
 3. Install PHP dependencies:
@@ -61,19 +71,38 @@ Before you begin, ensure you have the following installed on your machine:
     DB_PASSWORD=your-database-password
     ```
 
-8. Migrate and seed the database:
+8. Migrate the database:
 
     ```bash
     php artisan migrate 
     ```
+9. Build the frontend assets:
 
-9. Start the development server:
+    ```bash
+    npm run dev
+    ```
+
+10. Start the development server:
 
     ```bash
     php artisan serve
     ```
 
-10. Visit [http://localhost:8000](http://localhost:8000) in your browser.
+11. Visit [http://localhost:8000](http://localhost:8000) in your browser.
+
+## Additional Setup Commands
+
+- To build for production:
+
+    ```bash
+    npm run prod
+    ```
+
+- To optimize Laravel for production:
+
+    ```bash
+    php artisan optimize
+    ```
 
 ## Usage
 
